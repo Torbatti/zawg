@@ -1,0 +1,10 @@
+# temporary folders
+build
+local
+
+# zig related
+.zig-cache
+zig-out
+
+# vendored packages
+#vendor-*
